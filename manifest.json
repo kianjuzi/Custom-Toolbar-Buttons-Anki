@@ -1,0 +1,10 @@
+{
+    "package":           "custom_toolbar_btns",
+    "name":              "Custom Toolbar Buttons",
+    "version":           "1.0.0",
+    "min_version":       "2.1.50",
+    "max_version":       "",
+    "mod":               1715000000,
+    "conflicts":         [],
+    "tags":              "editor toolbar buttons"
+}

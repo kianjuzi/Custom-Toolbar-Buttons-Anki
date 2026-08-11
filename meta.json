@@ -1,0 +1,1 @@
+{"conflicts": [], "name": "custom toolbar buttons", "mod": 1775792188, "min_point_version": 50, "max_point_version": 250205, "branch_index": 0, "disabled": false, "config": {"buttons": [{"icon": "H\u2081", "shortcut": "Ctrl+Shift+1", "type": 2, "left": "<h1>", "right": "</h1>"}, {"icon": "H\u2084", "shortcut": "Ctrl+Shift+4", "type": 2, "left": "<h4>", "right": "</h4>"}]}}

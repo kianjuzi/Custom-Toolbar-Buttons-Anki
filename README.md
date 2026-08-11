@@ -1,5 +1,11 @@
 # Custom-Toolbar-Buttons-Anki
-This Add-on adds a + button to the toolbar on the card editing page. Click it to insert a custom button to its left. Available button functions:
+This Add-on adds a + button to the toolbar on the card editing page. Click it to insert a custom button to its left. 
+
+For Example, this User added an H₁, H₄, and a --- Button
+
+    ![image](Screenshot_2026-08-11_181733.jpg)
+
+Available button functions:
 - Insert specified content at the cursor position
 
     For example for a line (horizontal rule):
